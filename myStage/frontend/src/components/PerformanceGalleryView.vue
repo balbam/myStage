@@ -2,7 +2,7 @@
   <div class="performance-gallery container-fluid py-5">
     <div class="row">
 
-      <!-- 좌측 필터 영역 -->
+      <!-- 상단 필터 영역 -->
       <aside class="px-4 mb-4">
         <h5 class="fw-bold mb-3">공연정보</h5>
 
@@ -20,7 +20,7 @@
           </ul>
         </div>
       </aside>
-      <!-- 우측 공연 리스트 -->
+      <!-- 하단 공연 리스트 -->
       <section class="col-md-10">
         <div class="d-flex flex-wrap justify-content-start gap-4 px-3">
           <div
